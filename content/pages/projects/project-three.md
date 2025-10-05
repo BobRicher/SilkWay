@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: “Qulay va xavfsiz sayohat — barcha marshrutlar bir joyda.”
 colors: colors-a
-date: '2022-01-05'
+date: '0202-10-05'
 client: Awesome client
 description: 'Bizga murojat qling '
 featuredImage:
