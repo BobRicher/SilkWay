@@ -6,7 +6,7 @@ title: >-
 colors: colors-a
 date: '2021-10-15'
 client: Awesome client
-description: ''
+description: “Ekskursiyalar va turistik paketlar haqida ma’lumot oling.”
 featuredImage:
   type: ImageBlock
   url: /images/bg1.jpg
