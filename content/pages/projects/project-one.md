@@ -1,6 +1,8 @@
 ---
 type: ProjectLayout
-title: ''
+title: >-
+  “Silkway sizni O‘zbekiston madaniyati va an’anaviy taomlari bilan
+  tanishtiradi.”
 colors: colors-a
 date: '2021-10-15'
 client: Awesome client
