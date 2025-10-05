@@ -4,7 +4,7 @@ title: “Qulay va xavfsiz sayohat — barcha marshrutlar bir joyda.”
 colors: colors-a
 date: '2022-01-22'
 client: Awesome client
-description: ''
+description: “Chiptalarni bron qilish va yo‘nalishlarni tanlash uchun bosing.”
 featuredImage:
   type: ImageBlock
   url: /images/bg3.jpg
