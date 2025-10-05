@@ -8,7 +8,7 @@ description: '“Safaringizni rejalashtirish, marshrut va tavsiyalar uchun tugma
 featuredImage:
   type: ImageBlock
   url: /images/bg2.jpg
-  altText: Project thumbnail image
+  altText: “O‘zbekistonning tarixiy obidalarini kashf qiling.”
   caption: “O‘zbekistonning tarixiy obidalarini kashf qiling.”
 media:
   type: ImageBlock
