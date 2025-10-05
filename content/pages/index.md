@@ -53,7 +53,7 @@ sections:
       - content/pages/projects/project-one.md
     styles:
       self:
-        height: auto
+        height: screen
         width: wide
         padding:
           - pt-24
