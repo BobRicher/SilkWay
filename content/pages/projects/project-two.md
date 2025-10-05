@@ -4,7 +4,9 @@ title: O‘zbekistonning eng go‘zal joylarini Silkway bilan kashf qiling!”
 colors: colors-a
 date: '2021-12-20'
 client: Awesome client
-description: ''
+description: >-
+  “Safaringizni rejalashtirish, marshrut va tavsiyalar uchun bosing.” (tugma
+  yoki info b
 featuredImage:
   type: ImageBlock
   url: /images/bg2.jpg
