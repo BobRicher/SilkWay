@@ -14,7 +14,9 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: SilkWay – Sayohatni Esda Qolarli Qiling
-    subtitle: ''
+    subtitle: >-
+      O‘zbekiston va xalqaro sayohatlar uchun eksklyuziv paketlar. Siz faqat
+      sayohatdan zavqlaning!
     styles:
       self:
         height: auto
