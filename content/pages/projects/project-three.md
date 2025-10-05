@@ -14,6 +14,15 @@ media:
   url: /images/bg3.jpg
   altText: Project image
 ---
-Biz bilan bog'lanish uchun:+998(20)005-77-05
-Telegram:
-@Bobur0577
+Biz bilan bog'lanish uchun: +998(20)005-77-05
+
+
+
+
+
+
+
+
+Telegram: @Bobur0577
+
+
