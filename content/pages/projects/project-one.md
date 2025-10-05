@@ -1,11 +1,12 @@
 ---
 type: ProjectLayout
-title: A very cool code project
+title: >-
+  “Silkway sizni O‘zbekiston madaniyati va an’anaviy taomlari bilan
+  tanishtiradi.”
 colors: colors-a
 date: '2021-10-15'
 client: Awesome client
-description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably because I worked with an entire team :) but they definitely followed my lead most of the time.
+description: “Ekskursiyalar va turistik paketlar haqida ma’lumot oling.”
 featuredImage:
   type: ImageBlock
   url: /images/bg1.jpg
@@ -15,15 +16,18 @@ media:
   url: /images/bg1.jpg
   altText: Project image
 ---
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem, tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien. Etiam at cursus enim. Suspendisse sed augue tortor. Nunc eu magna vitae lorem pellentesque fermentum. Sed in facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper. Donec sed facilisis nibh. Curabitur eget dui in libero euismod commodo nec sit amet est. Etiam id ipsum aliquam, vehicula erat sit amet, consequat tortor.
-
-Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis. In malesuada sed urna eget vehicula. Donec fermentum tortor sit amet nisl elementum fringilla. Pellentesque dapibus suscipit faucibus. Nullam malesuada sed urna quis rutrum. Donec facilisis lorem id maximus mattis. Vestibulum quis elit magna. Vestibulum accumsan blandit consequat. Phasellus quis posuere quam.
-
-> “Everybody should learn to program a computer, because it teaches you how to think.”
-
-Vestibulum ullamcorper risus auctor eleifend consequat. Vivamus mollis in tellus ac ullamcorper. Vestibulum sit amet bibendum ipsum, vitae rutrum ex. Nullam cursus, urna et dapibus aliquam, urna leo euismod metus, eu luctus justo mi eget mauris. Proin felis leo, volutpat et purus in, lacinia luctus eros. Pellentesque lobortis massa scelerisque lorem ullamcorper, sit amet elementum nulla scelerisque. In volutpat efficitur nulla, aliquam ornare lectus ultricies ac. Mauris sagittis ornare dictum. Nulla vel felis ut purus fermentum pretium. Sed id lectus ac diam aliquet venenatis. Etiam ac auctor enim. Nunc velit mauris, viverra vel orci ut, egestas rhoncus diam. Morbi scelerisque nibh tellus, vel varius urna malesuada sed. Etiam ultricies sem consequat, posuere urna non, maximus ex. Mauris gravida diam sed augue condimentum pulvinar vel ac dui. Integer vel convallis justo.
-
-Nam rutrum magna sed pellentesque lobortis. Etiam quam mauris, iaculis eget ex ac, rutrum scelerisque nisl. Cras finibus dictum ex sed tincidunt. Morbi facilisis neque porta, blandit mauris quis, pharetra odio. Aliquam dictum quam quis elit auctor, at vestibulum ex pulvinar. Quisque lobortis a lectus quis faucibus. Nulla vitae pellentesque nibh, et fringilla erat. Praesent placerat ac est at tincidunt. Praesent ultricies a ex at ultrices. Etiam sed tincidunt elit. Nulla sagittis neque neque, ultrices dignissim sapien pellentesque faucibus. Donec tempor orci sed consectetur dictum. Ut viverra ut enim ac semper. Integer lacinia sem in arcu tempor faucibus eget non urna. Praesent vel nunc eu libero aliquet interdum non vitae elit. Maecenas pharetra ipsum dolor, et iaculis elit ornare ac.
-
-Aenean scelerisque ullamcorper est aliquet blandit. Donec ac tellus enim. Vivamus quis leo mattis, varius arcu at, convallis diam. Donec ac leo at nunc viverra molestie ac viverra nisi. Proin interdum at turpis at varius. Nunc sit amet ex suscipit, convallis ligula eu, pretium turpis. Sed ultricies neque vel mi malesuada, et mollis risus lobortis. Sed condimentum venenatis mauris, id elementum dolor gravida ac. Sed sodales tempus neque, quis iaculis arcu tincidunt ut. Donec vitae faucibus dui. In hac habitasse platea dictumst. Donec erat ex, ullamcorper a massa a, porttitor porta ligula.
+1. Plov – guruch, go‘sht, sabzi va ziravorlardan tayyorlangan asosiy milliy taom.
+2. Somsa – go‘sht yoki sabzavot bilan to‘ldirilgan pishirilgan xamirli pirog.
+3. Manti – bug‘da pishirilgan go‘shtli xamir qovurg‘alari.
+4. Lag‘mon – qo‘l bilan tayyorlangan makaronli sho‘rva, sabzavot va go‘sht bilan.
+5. Shashlik (Kebab) – go‘sht bo‘laklari yog‘siz va ziravorli, ochiq olovda pishiriladi.
+6. Chuchvara – kichik go‘shtli dumplinglar, sho‘rva bilan beriladi.
+7. Halva – shirin taom, asosan un, yog‘ va shakar bilan tayyorlanadi.
+8. Non (O‘zeki, Tandir noni) – turli shakllarda pishiriladigan an’anaviy non.
+9. Qovurilgan sabzavotlar – bodring, pomidor, karam va sabzavotlar bilan tayyorlanadi.
+10. Shurva – go‘shtli va sabzavotli sho‘rva, sovuq va issiq havoda mos.
+11. Katlama – qalin yoki yupqa xamirli, qovurilgan non, ayrim hollarda go‘sht bilan.
+12. Norin – qo‘y yoki mol go‘shtidan tayyorlangan uzun makaronli taom.
+13. Choy (O‘zbek choyi) – qora choy, ko‘pincha shakar va yong‘oq bilan.
+14. Qovurilgan go‘sht va sabzavotli palov (Osh) – maxsus tadbirlarda tayyorlanadi.
+15. Mastava – guruch va sabzavotli sho‘rva.
