@@ -2,7 +2,7 @@
 type: PostLayout
 title: Biz bilan bog'lanish uchun
 colors: colors-a
-date: '2025-01-10'
+date: '2025-10-10'
 author: content/data/team/doris-soto.json
 excerpt: +998(20)005-77-05
 featuredImage:
