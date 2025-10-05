@@ -61,7 +61,7 @@ sections:
           - pl-4
           - pr-4
         textAlign: left
-    subtitle: ''
+    subtitle: Sayohat Turlari
   - type: FeaturedPostsSection
     elementId: ''
     colors: colors-f
