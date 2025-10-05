@@ -61,6 +61,7 @@ sections:
           - pl-28
           - pr-28
         textAlign: center
+        borderRadius: x-large
     subtitle: Sayohat Turlari
   - type: FeaturedPostsSection
     elementId: ''
