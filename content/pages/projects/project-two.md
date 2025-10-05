@@ -1,7 +1,7 @@
 ---
 type: ProjectLayout
 title: O‘zbekistonning eng go‘zal joylarini Silkway bilan kashf qiling!”
-colors: colors-c
+colors: colors-d
 date: ''
 client: Awesome client
 description: >-
