@@ -62,7 +62,7 @@ sections:
           - pr-28
         textAlign: center
         borderRadius: xx-large
-    subtitle: Sayohat Turlari
+    subtitle: Sayohatni Boshlash
   - type: FeaturedPostsSection
     elementId: ''
     colors: colors-f
