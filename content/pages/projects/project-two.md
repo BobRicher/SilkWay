@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: O‘zbekistonning eng go‘zal joylarini Silkway bilan kashf qiling!”
 colors: colors-a
-date: '2021-12-20'
+date: ''
 client: Awesome client
 description: >-
   “Safaringizni rejalashtirish, marshrut va tavsiyalar uchun bosing.” (tugma
