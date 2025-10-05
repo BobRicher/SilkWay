@@ -4,7 +4,7 @@ title: Biz bilan bog'lanish uchun
 colors: colors-a
 date: ''
 author: content/data/team/doris-soto.json
-excerpt: Biz bilan bog'lanish uchun
+excerpt: +998(20)005-77-05
 featuredImage:
   type: ImageBlock
   url: /images/featured-Image6.jpg
