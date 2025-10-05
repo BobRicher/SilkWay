@@ -4,7 +4,7 @@ title: "How to Structure and Organize a Next.js Project \U0001F5C2️"
 colors: colors-a
 date: ''
 author: content/data/team/doris-soto.json
-excerpt: More context that may or may not be helpful
+excerpt: Biz bilan bog'lanish uchun
 featuredImage:
   type: ImageBlock
   url: /images/featured-Image6.jpg
