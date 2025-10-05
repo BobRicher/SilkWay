@@ -56,10 +56,10 @@ sections:
         height: auto
         width: wide
         padding:
-          - pt-24
-          - pb-24
-          - pl-4
-          - pr-4
+          - pt-28
+          - pb-28
+          - pl-28
+          - pr-28
         textAlign: center
     subtitle: Sayohat Turlari
   - type: FeaturedPostsSection
